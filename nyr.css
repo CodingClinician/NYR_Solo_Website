@@ -372,7 +372,6 @@
             }
             .small {
                 text-align: left;
-                word-wrap: break-word;
                 margin-left: none;
                 padding-left: none;
                 overflow-wrap: break-word;
@@ -418,12 +417,12 @@
                 margin-top: 1em;
             }
             .smMain {
-                margin-top: 6em;
+                margin-top: 7em;
                 font-size: 2em;
                 margin-left: 1em;
             }
             .smMain2 {
-                margin-top: 2em;
+                margin-top: 1em;
                 font-size: 2em;
                 margin-left: 1em;
             }
