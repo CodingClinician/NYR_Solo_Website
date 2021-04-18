@@ -418,7 +418,12 @@
                 margin-top: 1em;
             }
             .smMain {
-                margin-top: 5em;
+                margin-top: 6em;
+                font-size: 2em;
+                margin-left: 1em;
+            }
+            .smMain2 {
+                margin-top: 2em;
                 font-size: 2em;
                 margin-left: 1em;
             }
